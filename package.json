@@ -2,7 +2,7 @@
   "name": "fishing-clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Raymond2129/fishing-clicky-game.git",
+  "homepage": "https://raymond2129.github.io/fishing-clicky-game/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
