@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Raymond2129/fishing-clicky-game.git/precache-manifest.928595db726e36c16976bbacac92b2b6.js"
+  "/fishing-clicky-game/precache-manifest.5b473e57f760294b9461eeaeb8d54b76.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Raymond2129/fishing-clicky-game.git/index.html", {
+workbox.routing.registerNavigationRoute("/fishing-clicky-game/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
