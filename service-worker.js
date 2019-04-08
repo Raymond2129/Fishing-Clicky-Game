@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Raymond2129/fishing-clicky-game.git/precache-manifest.928595db726e36c16976bbacac92b2b6.js"
+  "/Raymond2129/fishing-clicky-game.git/precache-manifest.6730133ee3b719034b8ecac13e57dbfa.js"
 );
 
 workbox.clientsClaim();
